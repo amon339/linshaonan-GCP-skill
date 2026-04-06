@@ -16,7 +16,7 @@ cp -r skill ~/.claude/skills/linshaonan
 ```
 /linshaonan 你怎么看现在CRA的就业市场？
 /linshaonan 帮我梳理AI+临床试验的全景落地图
-/linshaonan 帮我写下周文章提纲，关于DCT落地
+/linshaonan 帮我写下周文章提纲，关于AI落地
 /linshaonan 这篇文章的逻辑有问题吗？[粘贴内容]
 ```
 
